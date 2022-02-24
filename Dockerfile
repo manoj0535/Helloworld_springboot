@@ -1,4 +1,5 @@
 FROM dockerfile/java:oracle-java8
+// dummy
 
 ENV MAVEN_VERSION 3.2.5
 
